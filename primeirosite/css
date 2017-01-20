@@ -1,0 +1,6 @@
+.place nav {
+	text-decoration: none;
+	font-family: "myriad pro regular", "Lucida san unicode", "Verdana", "sans-serif"
+	background-color: #FFF
+
+}

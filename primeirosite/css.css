@@ -1,0 +1,111 @@
+body {
+	font-family: 'myriad pro regular', 'Lucida Sans Unicode', Verdana, sans-serif;
+	line-height: 1.6;
+	background-color: #FFF
+}
+
+nav a {
+	text-decoration: none;
+	color: #000;
+	font-family: "myriad pro regular", "Lucida san unicode", "Verdana", "sans-serif";
+}
+
+.img-responsive {
+	width: 100%;
+}
+
+.container {
+	margin: 0 auto;
+	width: 80%;
+	border:1px solid black;
+}
+
+.container p{
+	font-size: 18px;
+	color: #7d7c7c;
+
+}
+
+ul {
+	list-style: none;
+}
+
+.menu ul li {
+	display: inline-block;
+	width:10.7%;
+	text-align:center;
+}	
+
+.menu ul li.btmenu {
+	width:3%;
+	margin-left: 20px
+}
+
+.menu ul li.logo {
+	width:25%;
+}
+
+.menu ul li.applelogo {
+	position:relative;
+	top:15px;
+}
+
+.banner {
+	text-align: center;
+	margin-bottom: 110px;
+}	
+
+
+h2 {
+    margin-top: 120px;
+	margin-bottom: 0;
+	font-size: 62px;
+	color:#000;
+}
+
+.banner p {
+	font-size: 20px;
+	color: #7d7c7c;
+}
+
+.text-pos-banner h2{
+	margin-top: 45px;
+	margin-bottom: 50px;
+	font-size: 26px;
+	color:#000;
+	border:1px solid #fff;
+}
+
+.textocadeado {
+	margin-left: 150px;
+	display: inline-block;
+	border:1px solid #fff;
+}
+
+.textodespertador {
+	margin-left: 90px;
+	display: inline-block;
+	border:1px solid #fff;
+	position:relative;
+	top: -30px;
+}
+
+.img-iphone{
+	position: relative;
+    float: left;
+    right: 200px;
+    bottom: 236px;
+    border:1px solid #fff;
+}
+
+.text-iphone h2{
+	margin-top: 400px;
+	font-size: 46px;
+	border:1px solid #fff;
+}
+
+
+
+
+
+	
