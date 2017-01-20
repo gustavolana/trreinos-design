@@ -105,6 +105,34 @@ h2 {
 }
 
 
+.text-maps h2{
+	margin-top: 580px;
+	font-size: 42px;
+	border:1px solid #fff;
+}
+
+.text-maps h3{
+      font-size: 12px;
+      margin-bottom: 25px;
+}
+
+.img-evernot{
+	border:1px solid #fff;
+	margin-left: 20px;
+	display: inline-block;
+}
+
+.img-maps{
+	position: relative;
+	float: right;
+	left: 195px;
+	bottom: 465px;
+}
+
+
+
+
+
 
 
 
